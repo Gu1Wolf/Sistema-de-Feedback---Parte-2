@@ -11,7 +11,8 @@ Gabriel Bezerra, Paulo Augusto de Moura Neto, Felipe Batista de Oliveira Nascime
 
 ---
 
-🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
+
 Para garantir que o ambiente seja idêntico ao de desenvolvimento (evitando erros de compilação como o que ocorreu com o numpy no seu sistema local), utilize o Docker Compose.
 
 Pré-requisitos
